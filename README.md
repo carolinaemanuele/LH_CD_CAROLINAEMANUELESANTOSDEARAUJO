@@ -17,7 +17,7 @@ Solução do desafio de ciência de dados do programa Lighthouse da Indicium. (2
 - Execute o Jupyter notebook
 
 ## Novas predições
- Uma sugestão para execução de novas predições é a criação de um arquivo python importando os modelos Ridge, Gradient Boosting, Linear Regression, Random Forest Regressor e Stacking Regressor, o pickle e a função tratar_dados_novos() no arquivo original. A partir dessas importações você pode baixar o modelo pré-treinado, transformar seus dados novos em um data frame, transformá-los através da função tratar_novos_dados() e executar a predição deles com o modelo que você baixou pelo pickle.
+ Uma sugestão para execução de novas predições é a criação de um arquivo python importando os modelos Ridge, Gradient Boosting, Linear Regression, Random Forest Regressor e Stacking Regressor, o pickle e a função tratar_dados_novos() no arquivo original. A partir dessas importações você pode baixar o modelo pré-treinado (disponível na pasta Jupyter Notebook), transformar seus dados novos em um data frame, transformá-los através da função tratar_novos_dados() e executar a predição deles com o modelo que você baixou pelo pickle.
 
  ----
 
